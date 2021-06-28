@@ -1,0 +1,1 @@
+# mvc-proje-g-rev1
